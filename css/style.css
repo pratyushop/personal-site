@@ -103,3 +103,19 @@ h2{
     font-family: cursive;
     font-size: 1.5em;
 }
+.talking{
+    margin-left: -14%;
+    clip-path: circle(20% at 49% 26%)
+  
+}
+.talk{
+    font-size: 2em;
+    color: #66bfbf;
+    text-align: center;
+    margin: 7% 1% 1% 11%;
+}
+.baat{
+font-family: cursive;
+font-size: 1.5em;
+margin: -37% 37% 0;
+}
