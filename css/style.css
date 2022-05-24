@@ -6,7 +6,7 @@ padding: 0%;
 }
 
 .container-1{
-background-color:#F8CB2E;
+background-color:;
 height: 350px;
 }
 .name{
@@ -18,21 +18,17 @@ height: 350px;
 font-family: 'Dancing Script', cursive;
 }
 .dancing-img{  
-      position: absolute;
-    top: 51px;
-    right: 64px;
+    display: inline;
+    position: relative;
+    top: -44%;
+    right: -42%;
 }
-.heart-img{
-    position: absolute;
-right: 307px;
-top: 100px;
-height: 62px;
+.heart-img{       position: relative;
+    display: inline-block;
+    top: -21%;
+    right: -21%;
 }
-.juice-img{
-    position: absolute;
-top: 100px;
-left: 307px;
-height: 62px;
+.juice-img{    
 }
 .party-img{
     position: absolute;
@@ -40,11 +36,10 @@ top: 200px;
 left: 85px;
 height: 62px;
 }
-.radio-img{
-    position: absolute;
-right: 102px;
-top: 193px;
-height: 62px;
+.radio-img{    display: inline-block;
+    position: relative;
+    top: 4%;
+    right: -28%;
 }
 .star-img{
 position: absolute;
@@ -52,14 +47,13 @@ top: 50px;
 }
 /*-----------------------------------------------HEADING----------------------------------------------------------------------*/
 .container-2{
-    background-color: #FF8C32;
-    height:500px;
+height:500px;
 }
-
-.profile-img{
-    padding-left:50px;
+img{
+    margin-left: 45%;
     clip-path: circle();
 }
+
 
 
 
